@@ -302,3 +302,4 @@ C:\Users\aytnz\Desktop\ASP-Area\ASP-Pustok\obj\Debug\netcoreapp3.1\ASP-Pustok.cs
 C:\Users\aytnz\Desktop\ASP-Area\ASP-Pustok\obj\Debug\netcoreapp3.1\ASP-Pustok.dll
 C:\Users\aytnz\Desktop\ASP-Area\ASP-Pustok\obj\Debug\netcoreapp3.1\ASP-Pustok.pdb
 C:\Users\aytnz\Desktop\ASP-Area\ASP-Pustok\obj\Debug\netcoreapp3.1\ASP-Pustok.genruntimeconfig.cache
+C:\Users\aytnz\Desktop\ASP-Area\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Author\Create.cshtml.g.cs

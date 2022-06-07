@@ -22,5 +22,10 @@ namespace ASP_Pustok.Areas.Manage.Controllers
             var data = _context.Authors.Include(x => x.Books).ToList();
             return View(data);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
